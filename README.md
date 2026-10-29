@@ -84,6 +84,11 @@ This chart compares the R² scores of Linear Regression, Decision Tree Regressio
 5. Place the dataset in the location expected by the notebook, or update the file path in the code.
 6. 6. Open the notebook `household_water_consumption_final.ipynb`.
 7. Run the cells in sequence to perform the analysis and evaluate the models.
+ ## 📑 Project Presentation
+
+View the PowerPoint presentation for an overview of the project, dataset, preprocessing methodology, machine learning models, evaluation results, sample prediction, and future improvements.
+
+[Download the Project Presentation](Household_Water_Consumption_Prediction_Presentation.pptx)
 
 ## 💡 Key Learnings
 
