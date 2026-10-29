@@ -70,7 +70,7 @@ The Random Forest model achieved an R² score of 0.940 on the test data. It also
 
 4. Download the dataset from the source linked above.
 5. Place the dataset in the location expected by the notebook, or update the file path in the code.
-6. Open the notebook `smlminiproject (1).ipynb`.
+6. 6. Open the notebook `household_water_consumption_final.ipynb`.
 7. Run the cells in sequence to perform the analysis and evaluate the models.
 
 ## 💡 Key Learnings
