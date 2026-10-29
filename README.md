@@ -64,7 +64,7 @@ The Random Forest model achieved an R² score of 0.940 on the test data. It also
 
 This scatter plot compares the actual water consumption values with the values predicted by the Random Forest model. Points closer to the diagonal reference line indicate more accurate predictions.
 
-![Actual vs Predicted](actual_vs_predicted.png)
+![actual vs predicted](actual_vs_predicted.png)
 
 ### R² Score Comparison
 
