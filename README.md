@@ -60,6 +60,18 @@ The Random Forest model achieved an R² score of 0.940 on the test data. It also
 
 *MAE and RMSE are expressed in the target variable's units. R² measures how well the model explains variation in the target values.*
 
+### Actual vs Predicted Water Consumption
+
+This scatter plot compares the actual water consumption values with the values predicted by the Random Forest model. Points closer to the diagonal reference line indicate more accurate predictions.
+
+![Actual vs Predicted Water Consumption](actual_vs_predicted.png)
+
+### R² Score Comparison
+
+This chart compares the R² scores of Linear Regression, Decision Tree Regression, and Random Forest Regression. Random Forest achieved the highest R² score of 0.940 among the three evaluated models.
+
+![R² Score Comparison](r2_score_comparison.png)
+
 ## ▶️ How to Run the Project
 
 1. Clone or download this repository.
@@ -101,3 +113,5 @@ B.Sc. Data Science Student | Aspiring Data Analyst
 ## 📎 Repository
 
 [View the project on GitHub](https://github.com/Esha7058/Household-Water-Consumption-Prediction)
+
+
